@@ -1,0 +1,7 @@
+
+
+<React.Fragment>
+<div className="container">
+         <img src="assets/assets/svg/logocomplet_traitsblancs.svg" alt="logo"/>
+</div>
+        </React.Fragment>
